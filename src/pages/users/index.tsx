@@ -70,7 +70,7 @@ export default function UserList() {
                 <Td px={["4", "4", "6"]}>
                   <Box>
                     <Text fontWeight="bold">Gabriel Carvalho</Text>
-                    <Text fontsize="small" color="gray.300">
+                    <Text fontSize="small" color="gray.300">
                       braga.gabrielcarvalho@gmail.com
                     </Text>
                   </Box>
